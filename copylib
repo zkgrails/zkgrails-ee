@@ -1,4 +1,4 @@
-SRC=../zk-5.0.2/dist/lib
+SRC=$1/dist/lib
 DST=./lib
 LIST=`ls lib/*.jar`
 for i in $LIST ;
