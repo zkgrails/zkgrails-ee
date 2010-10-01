@@ -1,0 +1,1 @@
+This plugin is licensed under GPLv2.
