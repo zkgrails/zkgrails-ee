@@ -12,9 +12,6 @@ This plugin contains addition jars required for enabling ZK Enterprise features.
   </resources>
   <dependencies>
     <plugin name='zk' version='1.0-RC1' />
-    <resolvers>
-      <resolver type='grailsPlugins' name='grailsPlugins' />
-    </resolvers>
   </dependencies>
   <behavior />
 </plugin>
