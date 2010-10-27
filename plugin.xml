@@ -6,7 +6,6 @@ This plugin contains addition jars required for enabling ZK Enterprise features.
 </description>
   <documentation>http://grails.org/plugin/zk-ee</documentation>
   <resources>
-    <resource>BuildConfig</resource>
     <resource>DataSource</resource>
     <resource>UrlMappings</resource>
   </resources>

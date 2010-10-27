@@ -7,7 +7,10 @@ class ZkEeGrailsPlugin {
     def dependsOn = [zk:version]
     // resources that are excluded from plugin packaging
     def pluginExcludes = [
-        "grails-app/views/error.gsp"
+        "grails-app/views/error.gsp",
+        "web-app/**",
+        "grails-app/i18n/messages.properties",
+	"dependencies.groovy"
     ]
 
     // TODO Fill in these fields
