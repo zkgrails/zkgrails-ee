@@ -1,4 +1,4 @@
-<plugin name='zk-ee' version='1.0.2' grailsVersion='1.2 &gt; *'>
+<plugin name='zk-ee' version='1.1-M1' grailsVersion='1.2 &gt; *'>
   <author>Chanwit Kaewkasi</author>
   <title>Enterprise Addons for ZK plugin for Grails</title>
   <description>\
@@ -10,7 +10,7 @@ This plugin contains addition jars required for enabling ZK Enterprise features.
     <resource>UrlMappings</resource>
   </resources>
   <dependencies>
-    <plugin name='zk' version='1.0.2' />
+    <plugin name='zk' version='1.1-M1' />
   </dependencies>
   <behavior />
 </plugin>
